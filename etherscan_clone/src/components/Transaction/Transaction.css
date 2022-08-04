@@ -1,0 +1,33 @@
+.block_compo {
+    width : auto;
+    height : 800px;
+    background-color: white;
+    border-radius: 3%;
+    opacity: 87%;
+    }
+
+
+.block_info{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+}
+
+.blockCol{
+    width : 200px;
+    margin : 10px 20px 10px 0;
+    padding : 0 0 0 10px;
+    font-weight: 700;
+    text-align: left;
+}
+
+.blockData{
+    width : 100%;
+    text-align: left;
+    margin : 10px 0 10px 0;
+}
+
+.empty{
+    padding : 200px;
+}
+
